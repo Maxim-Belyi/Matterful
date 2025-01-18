@@ -1,2 +1,2 @@
-Pet-project_"matterful" <br>
-https://github.com/Maxim-Belyi/matterful-html/blob/main/matterful.png
+pet__matterfull <br>
+Web site layout + adaptive
